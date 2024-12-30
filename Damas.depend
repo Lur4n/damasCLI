@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1700339647 source:c:\users\luanc\onedrive\햞ea de trabalho\aed ii - 2023\projetos\tad_arran_comabst_lv2\listav3\damas\main.cpp
+	<iostream>
+	<string>
+	"bib.h"
+
+1700339111 c:\users\luanc\onedrive\햞ea de trabalho\aed ii - 2023\projetos\tad_arran_comabst_lv2\listav3\damas\bib.h
+	<iostream>
+	<string>
+	<unistd.h>
+
+1700340316 source:c:\users\luanc\onedrive\햞ea de trabalho\aed ii - 2023\projetos\tad_arran_comabst_lv2\listav3\damas\impbib.cpp
+	"bib.h"
+
+1700498254 source:c:\users\luanc\onedrive\햞ea de trabalho\damas\impbib.cpp
+	"bib.h"
+
+1700339111 c:\users\luanc\onedrive\햞ea de trabalho\damas\bib.h
+	<iostream>
+	<string>
+	<unistd.h>
+
+1700339647 source:c:\users\luanc\onedrive\햞ea de trabalho\damas\main.cpp
+	<iostream>
+	<string>
+	"bib.h"
+
+1718898499 source:c:\users\luanc\onedrive\햞ea de trabalho\damas.2\impbib.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718394092 c:\users\luanc\onedrive\햞ea de trabalho\damas.2\bib.h
+	<iostream>
+	<clocale>
+	<string>
+	<unistd.h>
+	"bib_opcoes_Menu.h"
+
+1718897583 source:c:\users\luanc\onedrive\햞ea de trabalho\damas.2\main.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718487846 c:\users\luanc\onedrive\햞ea de trabalho\damas.2\bib_opcoes_menu.h
+
+1718893365 source:c:\users\luanc\onedrive\햞ea de trabalho\damas.2\opcoes_menu.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1721657153 source:c:\users\luanc\onedrive\햞ea de trabalho\damas.2\jogo.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1728130936 source:c:\users\luanc\onedrive\햞ea de trabalho\damas.2\bib.cpp
+
+1728130936 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damas.2\bib.cpp
+
+1729695821 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damas.2\impbib.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718394092 c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damas.2\bib.h
+	<iostream>
+	<clocale>
+	<string>
+	<unistd.h>
+	"bib_opcoes_Menu.h"
+
+1718487846 c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damas.2\bib_opcoes_menu.h
+
+1721657153 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damas.2\jogo.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718897583 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damas.2\main.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718893365 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damas.2\opcoes_menu.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1728130936 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damascli\bib.cpp
+
+1730918661 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damascli\impbib.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718394092 c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damascli\bib.h
+	<iostream>
+	<clocale>
+	<string>
+	<unistd.h>
+	"bib_opcoes_Menu.h"
+
+1718487846 c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damascli\bib_opcoes_menu.h
+
+1721657153 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damascli\jogo.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718897583 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damascli\main.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
+1718893365 source:c:\users\luanc\onedrive - instituto federal de minas gerais\햞ea de trabalho\damascli\opcoes_menu.cpp
+	"bib.h"
+	"bib_opcoes_Menu.h"
+
